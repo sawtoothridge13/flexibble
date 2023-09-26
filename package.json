@@ -20,6 +20,7 @@
     "react-dom": "latest"
   },
   "devDependencies": {
+    "@grafbase/sdk": "^0.6.3",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
